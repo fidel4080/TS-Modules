@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "getting started with modules in TS",
   "author": "Fidel Castro",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "serve": "node node_modules/esmodules-dev-server"
