@@ -1,0 +1,16 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "getting started with modules in TS",
+  "author": "Fidel Castro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node node_modules/esmodules-dev-server"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "esmodules-dev-server": "^0.0.4",
+    "typescript": "^7.0.2"
+  }
+}
